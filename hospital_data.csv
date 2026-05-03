@@ -1,0 +1,115 @@
+jurisdiction,weekEndingDate,totalConfC19NewAdm,totalConfFluNewAdm,totalConfRSVNewAdm,totalConfC19NewAdmPer100k,totalConfFluNewAdmPer100k,totalConfRSVNewAdmPer100k,totalConfC19NewAdmPer100kLevel,totalConfFluNewAdmPer100kLevel,totalConfRSVNewAdmPer100kLevel
+CA,2026-04-18,139,186,168,0.36,0.48,0.43,Very Low,Very Low,Very Low
+GA,2026-04-18,43,35,41,0.39,0.32,0.37,Very Low,Very Low,Very Low
+NV,2026-04-18,6,20,6,0.19,0.63,0.19,Very Low,Very Low,Very Low
+NY,2026-04-18,154,116,210,0.79,0.59,1.07,Very Low,Very Low,Low
+OH,2026-04-18,14,27,63,0.12,0.23,0.53,Very Low,Very Low,Very Low
+MI,2026-04-18,53,50,152,0.53,0.50,1.51,Very Low,Very Low,Low
+VI,2026-04-18,0,0,0,0.00,0.00,0.00,Very Low,Very Low,Very Low
+DC,2026-04-18,5,4,0,0.74,0.59,0.00,Very Low,Very Low,Very Low
+MN,2026-04-18,19,23,44,0.33,0.40,0.77,Very Low,Very Low,Low
+MT,2026-04-18,5,5,19,0.44,0.44,1.68,Very Low,Very Low,Low
+PR,2026-04-18,17,84,18,0.52,2.56,0.55,Very Low,Low,Very Low
+DE,2026-04-18,5,2,5,0.49,0.19,0.49,Very Low,Very Low,Very Low
+MS,2026-04-18,21,14,12,0.72,0.48,0.41,Very Low,Very Low,Very Low
+NJ,2026-04-18,49,29,39,0.53,0.31,0.42,Very Low,Very Low,Very Low
+VA,2026-04-18,31,13,12,0.36,0.15,0.14,Very Low,Very Low,Very Low
+CT,2026-04-18,16,34,30,0.44,0.94,0.83,Very Low,Very Low,Low
+GU,2026-04-18,,,,,,,Data Unavailable,Data Unavailable,Data Unavailable
+ID,2026-04-18,8,7,23,0.41,0.36,1.17,Very Low,Very Low,Low
+MO,2026-04-18,22,22,40,0.36,0.36,0.65,Very Low,Very Low,Very Low
+OK,2026-04-18,4,7,9,0.10,0.17,0.22,Very Low,Very Low,Very Low
+KS,2026-04-25,1,8,17,0.03,0.27,0.58,Very Low,Very Low,Very Low
+WI,2026-04-25,15,24,68,0.25,0.41,1.15,Very Low,Very Low,Low
+HI,2026-04-25,3,16,10,0.22,1.15,0.72,Very Low,Low,Low
+KY,2026-04-25,28,24,53,0.62,0.53,1.18,Very Low,Very Low,Low
+MD,2026-04-25,20,11,15,0.33,0.18,0.24,Very Low,Very Low,Very Low
+NE,2026-04-25,7,11,37,0.35,0.56,1.88,Very Low,Very Low,Low
+WA,2026-04-25,21,39,28,0.27,0.50,0.36,Very Low,Very Low,Very Low
+IL,2026-04-25,67,76,99,0.53,0.61,0.79,Very Low,Very Low,Low
+SC,2026-04-25,38,13,25,0.71,0.24,0.47,Very Low,Very Low,Very Low
+AS,2026-04-25,,,,,,,Data Unavailable,Data Unavailable,Data Unavailable
+IN,2026-04-25,23,19,65,0.34,0.28,0.95,Very Low,Very Low,Low
+ND,2026-04-25,3,3,18,0.39,0.39,2.32,Very Low,Very Low,Low
+OR,2026-04-25,5,10,25,0.12,0.24,0.59,Very Low,Very Low,Low
+PA,2026-04-25,97,191,106,0.75,1.47,0.82,Very Low,Low,Low
+MP,2026-04-25,,,,,,,Data Unavailable,Data Unavailable,Data Unavailable
+AZ,2026-04-25,25,69,50,0.34,0.93,0.67,Very Low,Very Low,Low
+WY,2026-04-25,2,0,4,0.34,0.00,0.69,Very Low,Very Low,Very Low
+VT,2026-04-18,1,3,14,0.15,0.46,2.16,Very Low,Very Low,Low
+HI,2026-04-18,1,4,1,0.07,0.29,0.07,Very Low,Very Low,Very Low
+KY,2026-04-18,12,20,22,0.27,0.44,0.49,Very Low,Very Low,Very Low
+MD,2026-04-18,21,5,10,0.34,0.08,0.16,Very Low,Very Low,Very Low
+NE,2026-04-18,2,8,29,0.10,0.41,1.47,Very Low,Very Low,Low
+WA,2026-04-18,33,40,40,0.43,0.52,0.52,Very Low,Very Low,Very Low
+IL,2026-04-18,47,42,87,0.38,0.34,0.69,Very Low,Very Low,Very Low
+SC,2026-04-18,16,3,13,0.30,0.06,0.24,Very Low,Very Low,Very Low
+MP,2026-04-18,,,,,,,Data Unavailable,Data Unavailable,Data Unavailable
+AZ,2026-04-18,25,61,37,0.34,0.82,0.50,Very Low,Very Low,Very Low
+WY,2026-04-18,13,6,20,2.24,1.03,3.44,Very Low,Very Low,Moderate
+AS,2026-04-18,,,,,,,Data Unavailable,Data Unavailable,Data Unavailable
+IN,2026-04-18,38,37,62,0.55,0.54,0.90,Very Low,Very Low,Low
+ND,2026-04-18,12,10,15,1.54,1.29,1.93,Very Low,Very Low,Low
+OR,2026-04-18,3,9,27,0.07,0.21,0.64,Very Low,Very Low,Low
+PA,2026-04-18,160,182,198,1.23,1.40,1.53,Very Low,Very Low,Low
+CT,2026-04-25,17,18,24,0.47,0.50,0.66,Very Low,Very Low,Very Low
+GU,2026-04-25,,,,,,,Data Unavailable,Data Unavailable,Data Unavailable
+ME,2026-04-25,2,10,16,0.14,0.72,1.15,Very Low,Very Low,Low
+TX,2026-04-25,100,119,160,0.33,0.39,0.53,Very Low,Very Low,Very Low
+CA,2026-04-25,141,225,158,0.36,0.58,0.41,Very Low,Very Low,Very Low
+GA,2026-04-25,64,28,40,0.58,0.26,0.36,Very Low,Very Low,Very Low
+NV,2026-04-25,3,30,15,0.09,0.94,0.47,Very Low,Very Low,Very Low
+NY,2026-04-25,150,66,177,0.77,0.34,0.91,Very Low,Very Low,Very Low
+MI,2026-04-25,21,26,41,0.21,0.26,0.41,Very Low,Very Low,Very Low
+VI,2026-04-25,0,0,0,0.00,0.00,0.00,Very Low,Very Low,Very Low
+LA,2026-04-25,34,35,16,0.75,0.77,0.35,Very Low,Very Low,Very Low
+MS,2026-04-25,10,14,16,0.34,0.48,0.55,Very Low,Very Low,Very Low
+NJ,2026-04-25,68,43,57,0.73,0.46,0.61,Very Low,Very Low,Very Low
+PR,2026-04-25,8,74,26,0.24,2.25,0.79,Very Low,Very Low,Very Low
+AL,2026-04-25,70,28,8,1.37,0.55,0.16,Very Low,Very Low,Very Low
+TN,2026-04-25,38,37,54,0.53,0.52,0.76,Very Low,Very Low,Very Low
+CO,2026-04-25,18,38,63,0.31,0.65,1.08,Very Low,Very Low,Low
+NH,2026-04-25,22,3,22,1.57,0.21,1.57,Very Low,Very Low,Low
+RI,2026-04-25,7,4,4,0.64,0.37,0.37,Very Low,Very Low,Very Low
+NM,2026-04-25,6,7,18,0.29,0.33,0.86,Very Low,Very Low,Very Low
+USA,2026-04-25,1629,1711,2318,0.48,0.51,0.69,Very Low,Very Low,Very Low
+FL,2026-04-25,119,173,167,0.53,0.77,0.74,Very Low,Very Low,Very Low
+WV,2026-04-25,14,16,51,0.79,0.90,2.88,Very Low,Very Low,High
+MN,2026-04-25,35,21,73,0.61,0.37,1.27,Very Low,Very Low,Low
+MT,2026-04-25,0,3,20,0.00,0.27,1.77,Very Low,Very Low,Low
+AR,2026-04-25,14,2,8,0.46,0.07,0.26,Very Low,Very Low,Very Low
+UT,2026-04-25,4,13,14,0.12,0.38,0.41,Very Low,Very Low,Very Low
+VT,2026-04-25,1,1,8,0.15,0.15,1.24,Very Low,Very Low,Low
+ID,2026-04-25,3,7,16,0.15,0.36,0.82,Very Low,Very Low,Low
+MO,2026-04-25,25,16,34,0.40,0.26,0.55,Very Low,Very Low,Very Low
+OH,2026-04-25,44,35,118,0.37,0.30,1.00,Very Low,Very Low,Low
+OK,2026-04-25,8,7,14,0.20,0.17,0.35,Very Low,Very Low,Very Low
+DC,2026-04-25,2,1,0,0.30,0.15,0.00,Very Low,Very Low,Very Low
+IA,2026-04-25,14,16,38,0.44,0.50,1.19,Very Low,Very Low,Low
+DE,2026-04-25,5,4,5,0.49,0.39,0.49,Very Low,Very Low,Very Low
+VA,2026-04-25,54,18,46,0.63,0.21,0.53,Very Low,Very Low,Very Low
+AK,2026-04-25,3,5,5,0.42,0.70,0.70,Very Low,Very Low,Low
+MA,2026-04-25,33,27,69,0.47,0.39,0.99,Very Low,Very Low,Low
+NC,2026-04-25,116,19,80,1.08,0.18,0.75,Very Low,Very Low,Very Low
+SD,2026-04-25,1,8,17,0.11,0.87,1.86,Very Low,Very Low,Low
+LA,2026-04-18,19,20,30,0.42,0.44,0.66,Very Low,Very Low,Very Low
+CO,2026-04-18,6,19,34,0.10,0.33,0.58,Very Low,Very Low,Very Low
+NH,2026-04-18,10,9,18,0.71,0.64,1.28,Very Low,Very Low,Low
+RI,2026-04-18,13,10,16,1.19,0.92,1.46,Very Low,Very Low,Low
+NM,2026-04-18,3,6,24,0.14,0.29,1.14,Very Low,Very Low,Very Low
+USA,2026-04-18,1585,1662,2207,0.47,0.49,0.65,Very Low,Very Low,Very Low
+KS,2026-04-18,11,7,16,0.38,0.24,0.55,Very Low,Very Low,Very Low
+TN,2026-04-18,78,47,25,1.10,0.66,0.35,Very Low,Very Low,Very Low
+WI,2026-04-18,27,32,88,0.46,0.54,1.49,Very Low,Very Low,Low
+ME,2026-04-18,1,3,7,0.07,0.22,0.50,Very Low,Very Low,Very Low
+TX,2026-04-18,82,110,74,0.27,0.36,0.24,Very Low,Very Low,Very Low
+AR,2026-04-18,15,3,8,0.49,0.10,0.26,Very Low,Very Low,Very Low
+UT,2026-04-18,2,5,5,0.06,0.15,0.15,Very Low,Very Low,Very Low
+FL,2026-04-18,115,157,124,0.51,0.70,0.55,Very Low,Very Low,Very Low
+WV,2026-04-18,17,29,73,0.96,1.64,4.12,Very Low,Low,High
+AK,2026-04-18,2,1,5,0.28,0.14,0.70,Very Low,Very Low,Low
+AL,2026-04-18,48,21,27,0.94,0.41,0.53,Very Low,Very Low,Very Low
+MA,2026-04-18,44,41,77,0.63,0.59,1.10,Very Low,Very Low,Low
+NC,2026-04-18,80,13,43,0.75,0.12,0.40,Very Low,Very Low,Very Low
+SD,2026-04-18,4,5,15,0.44,0.55,1.64,Very Low,Very Low,Low
+IA,2026-04-18,13,16,32,0.41,0.50,1.00,Very Low,Very Low,Low
